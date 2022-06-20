@@ -1,6 +1,6 @@
-package service;
+package demo.service;
 
-import entity.Student;
+import demo.entity.Student;
 
 public interface StudentService {
 	void createStudent(Student student);
